@@ -1,2 +1,13 @@
-# Foodies
-It Is An Online Food Ordering Website For Users Who Want Food At Their Doorstep.Our Main Motive Is To Provide Users The Quality Food At Low Prices Ever With Exciting Amount Of From Varoius Categories Of Foods.
+
+
+How to run this project: 
+
+1. Clone this project
+
+2. With MySQL database, create a "users" table with 4 fields: id, fullname, email, password.
+
+3. Create a .env file in the root folder: copy the .env.example file, rename to .env file -> change parameters like database name, port, username, password etc.
+
+4. Run "npm install" to install all packages in package.json file.
+
+5. Run "npm start " to start the project
